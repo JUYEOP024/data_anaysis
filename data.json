@@ -1,0 +1,6 @@
+{
+    "Name": ["Alice","Bob","Charile","David","Eve"],
+    "Age": [25,30,35,40,null],
+    "City":["New York","Los Angeles","Chicago","Houston","San Frecisco"],
+    "Salary":[70000,80000,120000,null,75000]
+}
